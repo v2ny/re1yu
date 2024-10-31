@@ -1,8 +1,8 @@
-# 🌸 Veni's Dev Dojo 🌸  
-[![Banner](https://i.pinimg.com/originals/fe/47/bc/fe47bcf86fef244c8e550a4210ee9d9f.gif)](https://github.com/v2ny)
+# 🌸 txtcu's Dev Dojo 🌸  
+[![Banner](https://i.pinimg.com/originals/fe/47/bc/fe47bcf86fef244c8e550a4210ee9d9f.gif)](https://github.com/txt2u)
 
 ✨ **Kon'nichiwa, fellow coder!** ✨  
-I'm **Veni** a.k.a **v2ny**, a 16-year-old coding prodigy mastering the art of game development and backend magic! My mission is to create epic games, build powerful systems, and lead the digital revolution—one line of code at a time! 🚀🎮
+I'm **txtcu** a.k.a **txt2u**, a 16-year-old coding prodigy mastering the art of game development and backend magic! My mission is to create epic games, build powerful systems, and lead the digital revolution—one line of code at a time! 🚀🎮
 
 ---
 
@@ -25,7 +25,7 @@ I'm **Veni** a.k.a **v2ny**, a 16-year-old coding prodigy mastering the art of g
 ## 📈 Epic Stats & Visuals  
 I love breaking down data like a master strategist! Here are some cool visuals, from GitHub stats to project performance graphs:
 
-![Veni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v2ny&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v2ny&layout=compact&theme=radical)
+![txtcu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=txt2u&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=txt2u&layout=compact&theme=radical)
 
 ---
 
@@ -48,4 +48,4 @@ As you code through the nights, remember this: like every anime hero, we all hav
 ---
 
 ⚡ **Catch me at the dev battlefield**:  
-Find me at [v2ny](https://github.com/v2ny) and let’s build something extraordinary! 🌐🔥
+Find me at [txt2u](https://github.com/txt2u) and let’s build something extraordinary! 🌐🔥
